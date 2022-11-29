@@ -177,7 +177,7 @@ footer {
   }
 
   .description::after {
-    content: "DROPLET";
+    /* content: "DROPLET"; */
     font-size: 50vw;
     position: absolute;
     opacity: 0.03;
